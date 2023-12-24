@@ -1,0 +1,44 @@
+body {
+  font-size: 20px;
+  text-align: center;
+}
+
+p {
+  margin: 0;
+}
+
+.title {
+  margin-bottom: 200px;
+}
+
+.input-text {
+  margin-bottom: 10px;
+}
+
+.input {
+  height: 28px;
+  font-size: 20px;
+  text-align: center;
+  padding-right: 10px;
+  margin-bottom: 10px;
+}
+
+.input::placeholder {
+  font-size: 20px;
+}
+
+.button {
+  display: block;
+  margin: 0 auto 30px;
+  padding: 10px 20px;
+  font-size: 20px;
+}
+
+.result-text {
+  margin-bottom: 10px;
+}
+
+.result {
+  margin-bottom: 20px;
+  text-decoration: underline;
+}
